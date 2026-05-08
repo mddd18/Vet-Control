@@ -317,7 +317,7 @@ export function Notifications() {
                   </motion.button>
                 )}
               </div>
-            </motion.div>
+            </div>
           </motion.div>
         ))}
       </div>
